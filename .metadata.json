@@ -1,0 +1,18 @@
+[
+  {
+    "package": "arnie",
+    "oncran": true
+  },
+  {
+    "package": "dataonderivatives",
+    "oncran": true
+  },
+  {
+    "package": "fmbasics",
+    "oncran": true
+  },
+  {
+    "package": "fmdates",
+    "oncran": true
+  }
+]
