@@ -14,5 +14,9 @@
   {
     "package": "fmdates",
     "oncran": true
+  },
+  {
+    "package": "managelocalrepo",
+    "oncran": true
   }
 ]

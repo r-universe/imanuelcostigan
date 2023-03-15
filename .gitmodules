@@ -23,3 +23,8 @@
 	url = https://github.com/imanuelcostigan/fmdates
 	shallow = true
 	registered = true
+[submodule "managelocalrepo"]
+	path = managelocalrepo
+	url = https://github.com/imanuelcostigan/managelocalrepo
+	shallow = true
+	registered = true
