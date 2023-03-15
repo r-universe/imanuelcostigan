@@ -1,6 +1,6 @@
 [
   {
-    "package": "arnie",
+    "package": "fmdates",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "fmdates",
+    "package": "arnie",
     "oncran": true
   }
 ]

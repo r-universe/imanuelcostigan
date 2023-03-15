@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "arnie"]
-	path = arnie
-	url = https://github.com/imanuelcostigan/arnie
+[submodule "fmdates"]
+	path = fmdates
+	url = https://github.com/imanuelcostigan/fmdates
 	shallow = true
 	registered = true
 [submodule "dataonderivatives"]
@@ -18,8 +18,8 @@
 	url = https://github.com/imanuelcostigan/fmbasics
 	shallow = true
 	registered = true
-[submodule "fmdates"]
-	path = fmdates
-	url = https://github.com/imanuelcostigan/fmdates
+[submodule "arnie"]
+	path = arnie
+	url = https://github.com/imanuelcostigan/arnie
 	shallow = true
 	registered = true
