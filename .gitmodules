@@ -11,9 +11,6 @@
 [submodule "fmbasics"]
 	path = fmbasics
 	url = https://github.com/imanuelcostigan/fmbasics
-[submodule "fmdates"]
-	path = fmdates
-	url = https://github.com/imanuelcostigan/fmdates
 [submodule "managelocalrepo"]
 	path = managelocalrepo
 	url = https://github.com/imanuelcostigan/managelocalrepo
