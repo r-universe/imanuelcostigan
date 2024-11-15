@@ -8,9 +8,6 @@
 [submodule "dataonderivatives"]
 	path = dataonderivatives
 	url = https://github.com/imanuelcostigan/dataonderivatives
-[submodule "fmbasics"]
-	path = fmbasics
-	url = https://github.com/imanuelcostigan/fmbasics
 [submodule "managelocalrepo"]
 	path = managelocalrepo
 	url = https://github.com/imanuelcostigan/managelocalrepo
