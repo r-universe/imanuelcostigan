@@ -5,6 +5,3 @@
 [submodule "dataonderivatives"]
 	path = dataonderivatives
 	url = https://github.com/imanuelcostigan/dataonderivatives
-[submodule "managelocalrepo"]
-	path = managelocalrepo
-	url = https://github.com/imanuelcostigan/managelocalrepo
